@@ -1,6 +1,6 @@
 //這邊程式碼可以放到cdn
-import express from 'express'; //載入express框架模組
-import path from 'path';
+// import express from 'express'; //載入express框架模組
+// import path from 'path';
 
 export default class {		//算是一種API(應該...
     constructor(port) {
